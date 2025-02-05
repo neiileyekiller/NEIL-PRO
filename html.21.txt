@@ -1,0 +1,16 @@
+<html>
+<head>
+        <title> Class Website </title> </head> 
+<body> 
+         <ul>
+          <h1> Welcome to our Class ! </h1> 
+                       <p> This is a  simple website for our class3D. </p> 
+                      <img src = "class_ photo. jpg" alt ="Class Photo">
+                                                                  <h2> Homework </h2>  
+                                                                     <p>. Here' s the latest homework assinments: </p> 
+                                                                                                              </ul> 
+</body>
+</html>
+                                                                          
+
+

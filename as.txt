@@ -1,0 +1,10 @@
+<HTML>
+<Head>
+<Title>calender</Title></Head>
+<body>
+<H1>CALENDER</H1>
+<Table border="2">
+<tr><th>janaury</th>army day<img src="C:\Users\Student\flag.jpg">
+</table>
+</body>
+</html>
